@@ -1,6 +1,5 @@
 ﻿pandas
 numpy
-matplotlib
 scikit-learn
-dagshub
-joblib
+mlflow
+matplotlib
