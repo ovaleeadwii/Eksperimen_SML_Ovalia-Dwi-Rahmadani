@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .sixth/
+mlruns/
+mlruns_ci/
+MLProject/mlruns/
+MLProject/mlruns_ci/
